@@ -1,3 +1,7 @@
+NAMA : BRYAN MALVINO S.A.P
+NIM  : 2205101077
+KELAS: TIF 5D
+
 # SEMANTIC---HTML
 Latihan Praktikum Semantic HTML
 
